@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7189632-a10f-4a03-bd69-1ba653545c17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/src/main/java/com/cilantroz/account/cmd/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.cmd/src/test/java/com/cilantroz/account/cmd/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/src/main/java/com/cilantroz/account/common/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.common/src/test/java/com/cilantroz/account/common/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/src/main/java/com/cilantroz/account/query/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.query/src/test/java/com/cilantroz/account/query/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/src/main/java/com/cilantroz/cqrscore/CqrsCoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cqrs-core/src/test/java/com/cilantroz/cqrscore/CqrsCoreApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/cqrs-core">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/account.cmd">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/account.query">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/cqrs-core">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cqrs-bank" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EaNckEnk7zAWanRk4MoaOmo0uD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/home/muash/Projects/cqrs-bank",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.cqrs-bank [dependencies]">
+    <configuration name="cqrs-bank [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="cqrs-bank [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="cqrs-bank:account.cmd [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/account.cmd" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-bank.account.common.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cilantroz.account.common.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-bank.account.query.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cilantroz.account.query.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-bank.account.cmd.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cilantroz.account.cmd.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CqrsCoreApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-bank.cqrs-core.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cilantroz.cqrscore.CqrsCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CqrsCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-core.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cilantroz.cqrscore.CqrsCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.cqrs-bank [dependencies]" />
+        <item itemvalue="Gradle.cqrs-bank:account.cmd [dependencies]" />
+        <item itemvalue="Gradle.cqrs-bank [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7189632-a10f-4a03-bd69-1ba653545c17" name="Changes" comment="" />
+      <created>1662829819332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662829819332</updated>
+      <workItem from="1662830362493" duration="2402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

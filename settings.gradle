@@ -1,2 +1,6 @@
 rootProject.name = 'cqrs-bank'
 
+include 'account.cmd'
+include 'account.query'
+include 'account.common'
+include 'cqrs-core'
